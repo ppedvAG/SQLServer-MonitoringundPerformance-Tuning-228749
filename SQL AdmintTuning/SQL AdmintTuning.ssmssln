@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL AdmintTuning", "SQL AdmintTuning\SQL AdmintTuning.ssmssqlproj", "{92BE1F5D-F247-46FC-BBFE-85E69C051190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BE1F5D-F247-46FC-BBFE-85E69C051190}.Default|Default.ActiveCfg = Default
+		{6003DD09-29A8-4030-9534-33A31D673DBC}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29F7852-0699-4A6F-954A-3B8057E3F596}
+	EndGlobalSection
+EndGlobal
